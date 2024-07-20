@@ -114,7 +114,7 @@ body {
   padding: 0.5em;
   color: rgb(0, 153, 255);
   width: 89em;
-  height: 3em;
+  height: auto;
   font-size: 1.3em;
   font-weight: bold;
   text-align: center;
@@ -133,6 +133,7 @@ body {
 
 .main_small_a_item {
   margin-top: 0.5em;
+  width: 38em;
   text-decoration: none;
   border: solid black 5px;
 }
@@ -154,4 +155,39 @@ body {
 .main_a_item {
   margin-top: 1em;
   text-decoration: none;
+}
+
+@media (max-width: 768px) { 
+  .Description{
+    width: auto;
+    height: auto;
+  }
+
+  .project_description {
+    width: 92vw;
+    height:auto;
+  }
+
+  .main_small_button_list{
+    display:block;
+    width: 100vw; 
+  }
+
+  .main_small_a_item {
+    width: 100vw;
+  }
+
+  .main_small_a_item + .main_small_a_item {
+    margin-left: 0px;
+  }
+
+  .main_button_item {
+    width: 92vw;
+  }
+  
+  .header_h_item {
+    width: 92vw;
+    text-align: center;
+  }
+  
 }
