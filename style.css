@@ -158,9 +158,22 @@ body {
 }
 
 @media (max-width: 768px) { 
+  .Title{
+    width: auto;
+    height: auto;
+    text-align: center;
+  }
+
+  .Contact{
+    width: auto;
+    height: auto;
+    text-align: center;
+  }
+
   .Description{
     width: auto;
     height: auto;
+    text-align: center;
   }
 
   .project_description {
@@ -183,11 +196,6 @@ body {
 
   .main_button_item {
     width: 92vw;
-  }
-  
-  .header_h_item {
-    width: 92vw;
-    text-align: center;
   }
   
 }
