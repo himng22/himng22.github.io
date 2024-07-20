@@ -188,11 +188,11 @@ body {
 
   .main_small_a_item {
     width: 95vw;
+    margin-right: 10px;
   }
 
   .main_small_a_item + .main_small_a_item {
     margin-left: 0px;
-    margin-right: 10px;
   }
 
   .main_button_item {
