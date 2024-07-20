@@ -183,11 +183,11 @@ body {
 
   .main_small_button_list{
     display:block;
-    width: 100vw; 
+    width: 95vw; 
   }
 
   .main_small_a_item {
-    width: 100vw;
+    width: 95vw;
   }
 
   .main_small_a_item + .main_small_a_item {
