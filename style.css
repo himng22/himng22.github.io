@@ -177,7 +177,7 @@ body {
   }
 
   .project_description {
-    width: 92vw;
+    width: 90vw;
     height:auto;
   }
 
@@ -192,6 +192,7 @@ body {
 
   .main_small_a_item + .main_small_a_item {
     margin-left: 0px;
+    margin-right: 10px;
   }
 
   .main_button_item {
