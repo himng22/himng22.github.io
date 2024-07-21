@@ -197,10 +197,6 @@ body {
     display:block;
   }
 
-  .main_small_a_item {
-    width: 100vw;
-  }
-
   .main_small_a_item + .main_small_a_item {
     margin-left: 0px;
   }
