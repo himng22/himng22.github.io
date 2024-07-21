@@ -198,11 +198,12 @@ body {
   }
 
   .main_small_a_item {
-    width: 100vw;
+    width: 98vw;
+
   }
 
   .main_small_a_item + .main_small_a_item {
-    margin-left: 5px;
+    margin-left: 0px;
   }
 
   .main_button_item {
