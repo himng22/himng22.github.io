@@ -199,11 +199,10 @@ body {
 
   .main_small_a_item {
     width: 100vw;
-    margin-left: 5px;
   }
 
   .main_small_a_item + .main_small_a_item {
-    margin-left: 0px;
+    margin-left: 5px;
   }
 
   .main_button_item {
