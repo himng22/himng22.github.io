@@ -261,7 +261,6 @@ body {
     align-items: center;
     width: 100%;
     height: 100vh;
-    background-color: #f1c40f;
   }
 
   #projects {
@@ -302,7 +301,7 @@ body {
 
   .main_small_a_item {
     width: 95%;
-
+    margin: auto;
   }
 
   .main_small_a_item + .main_small_a_item {
