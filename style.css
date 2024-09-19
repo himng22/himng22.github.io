@@ -284,11 +284,11 @@ body {
     align-items: center;
     width: 100%;
     height: auto;
-    background-color: aqua;
+    background-color: green;
   }
 
   .header_nav_menu_list{
-    margin-top: 20px;
+    margin-top: 50px;
   }
 
   .Title{
