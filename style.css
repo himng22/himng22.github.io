@@ -254,6 +254,20 @@ body {
 }
 
 @media (max-width: 768px) {
+  #navbar{
+    height: 50px;
+  }
+
+  #navbar > ul > li {
+    padding: 1rem;
+    min-width: 50px;
+  }
+
+  #navbar > ul > li > a {
+    font-size: 1em;
+  }
+  
+
   #welcome-section {
     display: flex;
     flex-direction: column;
