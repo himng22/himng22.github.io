@@ -284,7 +284,13 @@ body {
     align-items: center;
     width: 100%;
     height: auto;
+    background-color: aqua;
   }
+
+  .header_nav_menu_list{
+    margin-top: 20px;
+  }
+
   .Title{
     width: auto;
     text-align: center;
