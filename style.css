@@ -260,7 +260,6 @@ body {
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 100vh;
   }
 
   .projects {
@@ -284,6 +283,10 @@ body {
   .Description{
     width: auto;
     height: auto;
+  }
+
+  .project_title{
+    margin-bottom: 15px;
   }
 
   .project_description {
