@@ -292,6 +292,7 @@ body {
 
   .main_small_button_list{
     display:block;
+    margin-top: 2.5rem;
   }
 
   .main_small_a_item {
