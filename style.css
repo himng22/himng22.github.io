@@ -259,8 +259,8 @@ body {
   }
 
   #navbar > ul > li {
-    padding: 1rem;
-    min-width: 50px;
+    padding: 0.9rem;
+    min-width: 75px;
   }
 
   #navbar > ul > li > a {
@@ -310,6 +310,7 @@ body {
 
   .main_small_button_list{
     display:block;
+    margin-top: 15%;
   }
 
   .main_small_a_item {
